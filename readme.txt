@@ -17,18 +17,18 @@ https://goldfishhead.tistory.com/85#recentComments
 ########################################################
 ### BOOK 
 -실무로 배우는 시스템 성능 최적화
- https://wikibook.co.kr/practical-performance-tuning/
- http://sperformance.tistory.com/
+https://wikibook.co.kr/practical-performance-tuning/
+http://sperformance.tistory.com/
 
 - 웹 성능 최적화 기법
- https://www.rubypaper.co.kr/entry/웹-성능-최적화-기법이-출간되었습니다
- http://webfrontend.org
+https://www.rubypaper.co.kr/entry/웹-성능-최적화-기법이-출간되었습니다
+http://webfrontend.org
 
 - Effective-Java
- https://ebook.insightbook.co.kr/book/66
- https://github.com/jbloch/effective-java-3e-source-code.git
- https://github.com/brick0123/effective-java
- https://github.com/HugoMatilla/Effective-JAVA-Summary
+https://ebook.insightbook.co.kr/book/66
+https://github.com/jbloch/effective-java-3e-source-code.git
+https://github.com/brick0123/effective-java
+https://github.com/HugoMatilla/Effective-JAVA-Summary
 
 - 자바 퍼포먼스 튜닝 : 성능 향상을 위한 205가지 핵심 기법
 https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1513470639
