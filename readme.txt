@@ -11,11 +11,19 @@
 ########################################################
 ### Reference
 
-[자바 성능 튜닝 이야기] java 성능 튜닝 총정리
+JAVA
 https://goldfishhead.tistory.com/85#recentComments
+https://github.com/phpbae/java-performance
 
+DB
+https://sparkdia.tistory.com/19
+https://dataonair.or.kr/db-tech-reference/d-guide/da-guide/?mod=document&uid=304
+https://m.blog.naver.com/roser111/221660535634
+
+WEB
 https://www.stevy.dev/frontend-web-performance-guide-1/
 https://velog.io/@hsecode/최적화-웹-성능-최적화-방법-5분-완성
+https://ui.toast.com/fe-guide/ko_PERFORMANCE
 https://contents.premium.naver.com/codetree/funcoding/contents/220726012844062ac
 https://appmaster.io/ko/blog/12gaji-coegoyi-websaiteu-sogdo-teseuteu-dogu
 
