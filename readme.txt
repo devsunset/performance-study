@@ -14,6 +14,11 @@
 [자바 성능 튜닝 이야기] java 성능 튜닝 총정리
 https://goldfishhead.tistory.com/85#recentComments
 
+https://www.stevy.dev/frontend-web-performance-guide-1/
+https://velog.io/@hsecode/최적화-웹-성능-최적화-방법-5분-완성
+https://contents.premium.naver.com/codetree/funcoding/contents/220726012844062ac
+https://appmaster.io/ko/blog/12gaji-coegoyi-websaiteu-sogdo-teseuteu-dogu
+
 ########################################################
 ### BOOK 
 -실무로 배우는 시스템 성능 최적화
